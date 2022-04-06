@@ -1,4 +1,4 @@
-Descrição do projeto
+<H1>Descrição do projeto</H1>
 Neste projeto, possui um jogo da velha utilizando HTML, CSS e Javascript.
 
 Para rodar o projeto
